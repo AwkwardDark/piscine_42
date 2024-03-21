@@ -10,7 +10,9 @@ Piscine de 42 du Mars 2024
 
 -> C02: 85 / 100      ✅
 
--> C03:
+-> C03: 100 / 100     ✅
+
+-> C04:
 
 -> Rush00: 0 / 100    ❌ (la fonction marche bien , mais elle gere pas l'int max ni les negatives en premier argument)
 
