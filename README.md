@@ -14,11 +14,13 @@ Piscine de 42 du Mars 2024
 
 -> C04: 92 / 100      ✅
 
--> C05:
+-> C05: 80 / 100      ✅
 
 -> C06:
 
 -> Rush00: 0 / 100    ❌ (la fonction marche bien , mais elle gere pas l'int min ni les negatives en premier argument)
+
+-> Rush01: 0 / 100    ❌ (la fonction marche bien, mais la norminette ne passe pas D:)
 
 -> Exam00: 50 / 100   ✅
 
