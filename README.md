@@ -29,3 +29,5 @@ Piscine de 42 du Mars 2024
 -> Exam00: 50 / 100   ✅
 
 -> Exam01: 100 / 100  ✅
+
+-> Exam02: 100 / 100  ✅
