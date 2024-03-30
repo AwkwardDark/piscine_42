@@ -24,7 +24,7 @@ Piscine de 42 du Mars 2024
 
 -> Rush00: 0 / 100    ❌ (la fonction marche bien , mais elle gere pas l'int min ni les negatives en premier argument)
 
--> Rush01: 0 / 100    ❌ (la fonction marche bien, mais la norminette ne passe pas D:)
+-> Rush01: 0 / 100    ❌ (la fonction marche dans un 30% de cas, mais la norminette ne passe pas D:)
 
 -> Exam00: 50 / 100   ✅
 
