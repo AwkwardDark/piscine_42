@@ -22,6 +22,8 @@ Piscine de 42 du Mars 2024
 
 -> C08: 100 / 100     ✅
 
+-> C09: 100 / 100     ✅
+
 -> Rush00: 0 / 100    ❌ (la fonction marche bien , mais elle gere pas l'int min ni les negatives en premier argument)
 
 -> Rush01: 0 / 100    ❌ (la fonction marche dans un 30% de cas, mais la norminette ne passe pas D:)
