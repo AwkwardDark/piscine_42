@@ -24,6 +24,8 @@ Piscine de 42 du Mars 2024
 
 -> C09: 100 / 100     ✅
 
+-> C11: ?
+
 -> Rush00: 0 / 100    ❌ (la fonction marche bien , mais elle gere pas l'int min ni les negatives en premier argument)
 
 -> Rush01: 0 / 100    ❌ (la fonction marche dans un 30% de cas, mais la norminette ne passe pas D:)
@@ -35,3 +37,5 @@ Piscine de 42 du Mars 2024
 -> Exam01: 100 / 100  ✅
 
 -> Exam02: 100 / 100  ✅
+
+-> Exam Final: ?
