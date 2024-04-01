@@ -28,6 +28,8 @@ Piscine de 42 du Mars 2024
 
 -> Rush01: 0 / 100    ❌ (la fonction marche dans un 30% de cas, mais la norminette ne passe pas D:)
 
+-> Rush02: 0 / 100    ❌ (la fonction marche tres bien, mais mauvaise gestion des arguments du main)
+
 -> Exam00: 50 / 100   ✅
 
 -> Exam01: 100 / 100  ✅
