@@ -24,7 +24,7 @@ Piscine de 42 du Mars 2024
 
 -> C09: 100 / 100     ✅
 
--> C11: ?
+-> C11: 100 / 100     ✅
 
 -> Rush00: 0 / 100    ❌ (la fonction marche bien , mais elle gere pas l'int min ni les negatives en premier argument)
 
