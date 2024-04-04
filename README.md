@@ -12,7 +12,7 @@ Piscine de 42 du Mars 2024
 
 -> C03: 100 / 100     ✅
 
--> C04: 92 / 100      ✅
+-> C04:  100 / 100    ✅
 
 -> C05: 80 / 100      ✅
 
@@ -38,4 +38,4 @@ Piscine de 42 du Mars 2024
 
 -> Exam02: 100 / 100  ✅
 
--> Exam Final: ?
+-> Exam Final: ? / 100
