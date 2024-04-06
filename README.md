@@ -1,5 +1,7 @@
 Piscine de 42 du Mars 2024
 
+Logtime total: 301h (26 jours)
+
 -> Shell00: 100 / 100 ✅
 
 -> Shell01: 85 / 100  ✅
@@ -38,4 +40,4 @@ Piscine de 42 du Mars 2024
 
 -> Exam02: 100 / 100  ✅
 
--> Exam Final: ? / 100
+-> Exam Final: 72 / 100 ✅
