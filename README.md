@@ -1,4 +1,4 @@
-Piscine 42, Mars 2024
+Piscine 42, March 2024
 
 Total Logtime: 301h (26 days)
 
