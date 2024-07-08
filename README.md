@@ -1,6 +1,6 @@
-Piscine de 42 du Mars 2024
+Piscine 42, Mars 2024
 
-Logtime total: 301h (26 jours)
+Total Logtime: 301h (26 days)
 
 -> Shell00: 100 / 100 ✅
 
@@ -28,11 +28,11 @@ Logtime total: 301h (26 jours)
 
 -> C11: 100 / 100     ✅
 
--> Rush00: 0 / 100    ❌ (la fonction marche bien , mais elle gere pas l'int min ni les negatives en premier argument)
+-> Rush00: 0 / 100    ❌ (int min and argv[1] < 0 breaks the code)
 
--> Rush01: 0 / 100    ❌ (la fonction marche dans un 30% de cas, mais la norminette ne passe pas D:)
+-> Rush01: 0 / 100    ❌ (norminette doesn't work, solver works in 30% of cases)
 
--> Rush02: 0 / 100    ❌ (la fonction marche tres bien, mais mauvaise gestion des arguments du main)
+-> Rush02: 0 / 100    ❌ (bad error management and leaks)
 
 -> Exam00: 50 / 100   ✅
 
