@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ultimate_div_mod.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pajimene <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: marvin <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/14 19:58:58 by pajimene          #+#    #+#             */
 /*   Updated: 2024/03/15 21:28:40 by pajimene         ###   ########.fr       */
