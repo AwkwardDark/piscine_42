@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pajimene <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: marvin <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/13 10:09:59 by pajimene          #+#    #+#             */
 /*   Updated: 2024/03/14 10:36:33 by pajimene         ###   ########.fr       */
