@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_sort_int_tab.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pajimene <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: marvin <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/15 11:41:05 by pajimene          #+#    #+#             */
 /*   Updated: 2024/03/16 15:48:51 by pajimene         ###   ########.fr       */
