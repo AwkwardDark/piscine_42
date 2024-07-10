@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_comb.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pajimene <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: marvin <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/13 12:50:16 by pajimene          #+#    #+#             */
 /*   Updated: 2024/03/14 15:05:45 by pajimene         ###   ########.fr       */
